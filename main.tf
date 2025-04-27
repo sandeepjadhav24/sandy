@@ -16,3 +16,8 @@ resource "azurerm_resource_group" "sandy" {
     name = "sandy2255"
     location = "eastus"  
 }
+
+resource "azurerm_resource_group" "sandy" {
+    name = "sandy2255"
+    location = "eastus"  
+}
